@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jijinga.github.io/about/index.html</loc>
+    <loc>https://jijinga.github.io/2021/02/10/hello-world/</loc>
     
     <lastmod>2021-02-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://jijinga.github.io/link/index.html</loc>
+    <loc>https://jijinga.github.io/about/index.html</loc>
     
     <lastmod>2021-02-10</lastmod>
     
@@ -29,13 +29,6 @@
     
   </url>
   
-  <url>
-    <loc>https://jijinga.github.io/2021/02/10/hello-world/</loc>
-    
-    <lastmod>2021-02-10</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://jijinga.github.io/</loc>
@@ -45,6 +38,27 @@
   </url>
 
   
+  <url>
+    <loc>https://jijinga.github.io/tags/Javascript/</loc>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jijinga.github.io/tags/%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://jijinga.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
