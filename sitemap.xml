@@ -53,20 +53,6 @@
 
   
   <url>
-    <loc>https://jijinga.github.io/tags/Javascript/</loc>
-    <lastmod>2021-03-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jijinga.github.io/tags/%E5%87%BD%E6%95%B0/</loc>
-    <lastmod>2021-03-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jijinga.github.io/tags/Elemet/</loc>
     <lastmod>2021-03-05</lastmod>
     <changefreq>daily</changefreq>
@@ -94,6 +80,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://jijinga.github.io/tags/Javascript/</loc>
+    <lastmod>2021-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jijinga.github.io/tags/%E5%87%BD%E6%95%B0/</loc>
+    <lastmod>2021-03-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -104,14 +104,14 @@
   </url>
   
   <url>
-    <loc>https://jijinga.github.io/categories/%E5%89%8D%E7%AB%AF/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</loc>
+    <loc>https://jijinga.github.io/categories/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2021-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://jijinga.github.io/categories/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/</loc>
+    <loc>https://jijinga.github.io/categories/%E5%89%8D%E7%AB%AF/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2021-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
